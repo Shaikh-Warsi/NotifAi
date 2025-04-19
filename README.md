@@ -1,6 +1,6 @@
 # NotifAi
 
-# 🧠 NotifAi - Smart Desktop Reminder App
+# # 🚧 Work in Progress: NotifAi - Smart Desktop Reminder App
 
 NotifAi is a cross-platform desktop reminder app built with PyQt6. It lets you schedule reminders with custom text and triggers desktop notifications when it's time.
 
@@ -24,7 +24,7 @@ NotifAi is a cross-platform desktop reminder app built with PyQt6. It lets you s
 
 ## 🚀 Installation
 
-### 1. Clone the repo
+### Clone the repo
 
 ```bash
 git clone https://github.com/yourusername/notifai.git
