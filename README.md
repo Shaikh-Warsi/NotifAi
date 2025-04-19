@@ -29,4 +29,5 @@ NotifAi is a cross-platform desktop reminder app built with PyQt6. It lets you s
 ```bash
 git clone https://github.com/yourusername/notifai.git
 cd notifai
+python main.py
 ```
