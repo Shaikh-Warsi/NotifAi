@@ -31,3 +31,16 @@ git clone https://github.com/yourusername/notifai.git
 cd notifai
 python main.py
 ```
+
+##📚 Requirements
+
+    Python 3.9+
+
+    PyQt6
+
+    Plyer (for notifications)
+
+##Install them via:
+```
+pip install PyQt6 plyer
+```
